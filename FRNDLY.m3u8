@@ -34,7 +34,7 @@ http://10.10.10.50:8089/devices/ANY/channels/9004/stream.mpg
 http://10.10.10.50:8089/devices/ANY/channels/9017/stream.mpg
 
 #EXTINF:-1 channel-id="HallmarkMystery" tvg-id="171" tvg-chno="171" tvg-logo="https://tmsimg.fancybits.co/assets/s46710_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="46710" tvg-name="HMYSHD" group-title="HD",Hallmark Mystery
-http://10.10.10.50:8089/devices/ANY/channels/6091/stream.mpg
+http://10.10.10.50:8089/devices/ANY/channels/9005/stream.mpg
 
 #EXTINF:-1 channel-id="IonMystery" tvg-id="172" tvg-chno="172" tvg-logo="https://tmsimg.fancybits.co/assets/s112568_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="112568" tvg-name="IMYSHD" group-title="HD",ION Mystery
 http://10.10.10.50:8089/devices/ANY/channels/9020/stream.mpg
