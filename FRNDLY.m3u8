@@ -1,76 +1,76 @@
 #EXTM3U
 
 #EXTINF:-1 channel-id="Get" tvg-id="118" tvg-chno="118" tvg-logo="https://tmsimg.fancybits.co/assets/s82563_ll_h9_aa.png?w=360&h=270" tvc-guide-stationid="82563" tvg-name="GETTV" group-title="HD",Get TV
-http://10.10.10.50:8089/devices/ANY/channels/9028/stream.mpg
+http://10.10.10.50:8089/devices/ANY/channels/9030/stream.mpg
 
 #EXTINF:-1 channel-id="Movies" tvg-id="120" tvg-chno="120" tvg-logo="https://tmsimg.fancybits.co/assets/s81275_h3_aa.png?w=360&h=270" tvc-guide-stationid="81275" tvg-name="MVIES" group-title="HD",MOVIES!
-http://10.10.10.50:8089/devices/ANY/channels/9033/stream.mpg
+http://10.10.10.50:8089/devices/ANY/channels/9035/stream.mpg
 
 #EXTINF:-1 channel-id="MeTVPlus" tvg-id="121" tvg-chno="121" tvg-logo="https://tmsimg.fancybits.co/assets/s119266_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="119266" tvg-name="METVPLS" group-title="HD",MeTV+
-http://10.10.10.50:8089/devices/ANY/channels/9007/stream.mpg
+http://10.10.10.50:8089/devices/ANY/channels/9008/stream.mpg
 
 #EXTINF:-1 channel-id="MeTV" tvg-id="122" tvg-chno="122" tvg-logo="https://tmsimg.fancybits.co/assets/s122696_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="122696" tvg-name="METVD" group-title="HD",MeTV
 http://10.10.10.50:8089/devices/ANY/channels/9001/stream.mpg
 
 #EXTINF:-1 channel-id="HerosIcons" tvg-id="144" tvg-chno="144" tvg-logo="" tvc-guide-stationid="120460" tvg-name="HRICNST" group-title="HD",Heroes & Icons
-http://10.10.10.50:8089/devices/ANY/channels/9024/stream.mpg
+http://10.10.10.50:8089/devices/ANY/channels/9026/stream.mpg
 
 #EXTINF:-1 channel-id="AE" tvg-id="149" tvg-chno="149" tvg-logo="https://tmsimg.fancybits.co/assets/s51529_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="51529" tvg-name="AETVHD" group-title="HD",A&E
 http://10.10.10.50:8089/devices/ANY/channels/9000/stream.mpg
 
 #EXTINF:-1 channel-id="Vice" tvg-id="150" tvg-chno="150" tvg-logo="https://tmsimg.fancybits.co/assets/s18822_h3_ba.png?w=360&h=270" tvc-guide-stationid="65732" tvg-name="VICEHD" group-title="HD",VICE
-http://10.10.10.50:8089/devices/ANY/channels/9039/stream.mpg
+http://10.10.10.50:8089/devices/ANY/channels/9041/stream.mpg
 
 #EXTINF:-1 channel-id="Lifetime" tvg-id="165" tvg-chno="165" tvg-logo="https://tmsimg.fancybits.co/assets/s60150_ll_h15_ad.png?w=360&h=270" tvc-guide-stationid="60150" tvg-name="LIFEHD" group-title="HD",Lifetime
-http://10.10.10.50:8089/devices/ANY/channels/9008/stream.mpg
-
-#EXTINF:-1 channel-id="LMN" tvg-id="167" tvg-chno="167" tvg-logo="https://tmsimg.fancybits.co/assets/s18480_ll_h15_ad.png?w=360&h=270" tvc-guide-stationid="92261" tvg-name="LMNSTR" group-title="HD",LMN
 http://10.10.10.50:8089/devices/ANY/channels/9009/stream.mpg
 
+#EXTINF:-1 channel-id="LMN" tvg-id="167" tvg-chno="167" tvg-logo="https://tmsimg.fancybits.co/assets/s18480_ll_h15_ad.png?w=360&h=270" tvc-guide-stationid="92261" tvg-name="LMNSTR" group-title="HD",LMN
+http://10.10.10.50:8089/devices/ANY/channels/9010/stream.mpg
+
 #EXTINF:-1 channel-id="Hallmark" tvg-id="169" tvg-chno="169" tvg-logo="https://tmsimg.fancybits.co/assets/s66268_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="66268" tvg-name="HALLHD" group-title="HD",Hallmark Channel
-http://10.10.10.50:8089/devices/ANY/channels/9004/stream.mpg
-
-#EXTINF:-1 channel-id="HallmarkFamily" tvg-id="170" tvg-chno="170" tvg-logo="https://tmsimg.fancybits.co/assets/s105723_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="105723" tvg-name="HFM" group-title="HD",Hallmark Family
-http://10.10.10.50:8089/devices/ANY/channels/9017/stream.mpg
-
-#EXTINF:-1 channel-id="HallmarkMystery" tvg-id="171" tvg-chno="171" tvg-logo="https://tmsimg.fancybits.co/assets/s46710_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="46710" tvg-name="HMYSHD" group-title="HD",Hallmark Mystery
 http://10.10.10.50:8089/devices/ANY/channels/9005/stream.mpg
 
+#EXTINF:-1 channel-id="HallmarkFamily" tvg-id="170" tvg-chno="170" tvg-logo="https://tmsimg.fancybits.co/assets/s105723_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="105723" tvg-name="HFM" group-title="HD",Hallmark Family
+http://10.10.10.50:8089/devices/ANY/channels/9018/stream.mpg
+
+#EXTINF:-1 channel-id="HallmarkMystery" tvg-id="171" tvg-chno="171" tvg-logo="https://tmsimg.fancybits.co/assets/s46710_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="46710" tvg-name="HMYSHD" group-title="HD",Hallmark Mystery
+http://10.10.10.50:8089/devices/ANY/channels/9006/stream.mpg
+
 #EXTINF:-1 channel-id="IonMystery" tvg-id="172" tvg-chno="172" tvg-logo="https://tmsimg.fancybits.co/assets/s112568_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="112568" tvg-name="IMYSHD" group-title="HD",ION Mystery
-http://10.10.10.50:8089/devices/ANY/channels/9020/stream.mpg
+http://10.10.10.50:8089/devices/ANY/channels/9022/stream.mpg
 
 #EXTINF:-1 channel-id="FYI" tvg-id="175" tvg-chno="175" tvg-logo="https://tmsimg.fancybits.co/assets/s58988_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="58988" tvg-name="FYIHD" group-title="HD",FYI
-http://10.10.10.50:8089/devices/ANY/channels/9034/stream.mpg
+http://10.10.10.50:8089/devices/ANY/channels/9036/stream.mpg
 
 #EXTINF:-1 channel-id="Start" tvg-id="176" tvg-chno="176" tvg-logo="https://tmsimg.fancybits.co/assets/s122695_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="122695" tvg-name="STRTD" group-title="HD",Start TV
 http://10.10.10.50:8089/devices/ANY/channels/9018/stream.mpg
 
 #EXTINF:-1 channel-id="QVC" tvg-id="202" tvg-chno="202" tvg-logo="https://tmsimg.fancybits.co/assets/s60222_ll_h15_ac.png?w=360&h=270" tvc-guide-stationid="60222" tvg-name="QVCHD" group-title="HD",QVC
-http://10.10.10.50:8089/devices/ANY/channels/9040/stream.mpg
+http://10.10.10.50:8089/devices/ANY/channels/9042/stream.mpg
 
 #EXTINF:-1 channel-id="MilitaryHistory" tvg-id="237" tvg-chno="237" tvg-logo="https://tmsimg.fancybits.co/assets/s48999_ll_h15_ac.png?w=360&h=270" tvc-guide-stationid="48999" tvg-name="MILH" group-title="HD",Military HISTORY
-http://10.10.10.50:8089/devices/ANY/channels/9029/stream.mpg
+http://10.10.10.50:8089/devices/ANY/channels/9031/stream.mpg
 
 #EXTINF:-1 channel-id="Grit" tvg-id="240" tvg-chno="240" tvg-logo="https://tmsimg.fancybits.co/assets/s89922_ll_h9_aa.png?w=360&h=270" tvc-guide-stationid="89922" tvg-name="GRIT" group-title="HD",Grit
-http://10.10.10.50:8089/devices/ANY/channels/9014/stream.mpg
+http://10.10.10.50:8089/devices/ANY/channels/9015/stream.mpg
 
 #EXTINF:-1 channel-id="History" tvg-id="243" tvg-chno="243" tvg-logo="https://tmsimg.fancybits.co/assets/s14771_ll_h15_af.png?w=360&h=270" tvc-guide-stationid="14771" tvg-name="HISTORY" group-title="HD",HISTORY
-http://10.10.10.50:8089/devices/ANY/channels/9002/stream.mpg
-
-#EXTINF:-1 channel-id="Outdoor" tvg-id="309" tvg-chno="309" tvg-logo="https://tmsimg.fancybits.co/assets/s46737_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="46737" tvg-name="OUTHD" group-title="HD",Outdoor Channel
-http://10.10.10.50:8089/devices/ANY/channels/9035/stream.mpg
-
-#EXTINF:-1 channel-id="Weather" tvg-id="327" tvg-chno="327" tvg-logo="https://tmsimg.fancybits.co/assets/s58812_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="58812" tvg-name="WEATHHD" group-title="HD",The Weather Channel
-http://10.10.10.50:8089/devices/ANY/channels/9010/stream.mpg
-
-#EXTINF:-1 channel-id="Ion" tvg-id="375" tvg-chno="375" tvg-logo="https://tmsimg.fancybits.co/assets/s18633_ll_h15_ac.png?w=360&h=270" tvc-guide-stationid="18633" tvg-name="ION" group-title="HD",ION
 http://10.10.10.50:8089/devices/ANY/channels/9003/stream.mpg
 
+#EXTINF:-1 channel-id="Outdoor" tvg-id="309" tvg-chno="309" tvg-logo="https://tmsimg.fancybits.co/assets/s46737_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="46737" tvg-name="OUTHD" group-title="HD",Outdoor Channel
+http://10.10.10.50:8089/devices/ANY/channels/9037/stream.mpg
+
+#EXTINF:-1 channel-id="Weather" tvg-id="327" tvg-chno="327" tvg-logo="https://tmsimg.fancybits.co/assets/s58812_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="58812" tvg-name="WEATHHD" group-title="HD",The Weather Channel
+http://10.10.10.50:8089/devices/ANY/channels/9011/stream.mpg
+
+#EXTINF:-1 channel-id="Ion" tvg-id="375" tvg-chno="375" tvg-logo="https://tmsimg.fancybits.co/assets/s18633_ll_h15_ac.png?w=360&h=270" tvc-guide-stationid="18633" tvg-name="ION" group-title="HD",ION
+http://10.10.10.50:8089/devices/ANY/channels/9004/stream.mpg
+
 #EXTINF:-1 channel-id="INSP" tvg-id="379" tvg-chno="379" tvg-logo="https://tmsimg.fancybits.co/assets/s82773_ll_h15_ac.png?w=360&h=270" tvc-guide-stationid="82773" tvg-name="INSPHD" group-title="HD",INSP
-http://10.10.10.50:8089/devices/ANY/channels/9013/stream.mpg
+http://10.10.10.50:8089/devices/ANY/channels/9014/stream.mpg
 
 #EXTINF:-1 channel-id="Up" tvg-id="400" tvg-chno="400" tvg-logo="https://tmsimg.fancybits.co/assets/s66143_ll_h15_ac.png?w=360&h=270" tvc-guide-stationid="66143" tvg-name="UPHD" group-title="HD",UP TV
-http://10.10.10.50:8089/devices/ANY/channels/9006/stream.mpg
+http://10.10.10.50:8089/devices/ANY/channels/9007/stream.mpg
 
 #EXTINF:-1 channel-id="GACFamily" tvg-id="406" tvg-chno="406" tvg-logo="https://tmsimg.fancybits.co/assets/s82892_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="82892" tvg-name="GACFHD" group-title="HD",GAC Family
-http://10.10.10.50:8089/devices/ANY/channels/9016/stream.mpg
+http://10.10.10.50:8089/devices/ANY/channels/9017/stream.mpg
