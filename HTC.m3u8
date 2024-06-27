@@ -6,6 +6,12 @@ http://10.10.10.50:8089/devices/M3U-HTC/channels/125/stream.mpg?format=ts
 #EXTINF:-1 channel-id="USA" tvg-id="131" tvg-chno="131" tvg-logo="https://tmsimg.fancybits.co/assets/s58452_ll_h15_af.png?w=360&h=270" tvc-guide-stationid="58452" tvg-name="USAHD" group-title="HD",USA
 http://10.10.10.50:8089/devices/M3U-HTC/channels/131/stream.mpg?format=ts
 
+#EXTINF:-1 channel-id="Paramount" tvg-id="135" tvg-chno="135" tvg-logo="https://tmsimg.fancybits.co/assets/s59186_ll_h15_ac.png?w=360&h=270" tvc-guide-stationid="59186" tvg-name="PARHD" group-title="HD",PARAMOUNT
+http://10.10.10.50:8089/devices/ANY/channels/135/stream.mpg
+
+#EXTINF:-1 channel-id="ComedyCentral" tvg-id="139" tvg-chno="139" tvg-logo="https://tmsimg.fancybits.co/assets/s62420_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="62420" tvg-name="CCHD" group-title="HD",CC
+http://10.10.10.50:8089/devices/ANY/channels/139/stream.mpg
+
 #EXTINF:-1 channel-id="SyFy" tvg-id="141" tvg-chno="141" tvg-logo="https://tmsimg.fancybits.co/assets/s58623_ll_h15_ae.png?w=360&h=270" tvc-guide-stationid="58623" tvg-name="SYFYHD" group-title="HD",SYFY
 http://10.10.10.50:8089/devices/M3U-HTC/channels/141/stream.mpg?format=ts
 
@@ -23,6 +29,9 @@ http://10.10.10.50:8089/devices/M3U-HTC/channels/191/stream.mpg?format=ts
 
 #EXTINF:-1 channel-id="Nickelodeon" tvg-id="254" tvg-chno="254" tvg-logo="https://tmsimg.fancybits.co/assets/s59432_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="59432" tvg-name="NIKHD" group-title="HD",NICKELODEON HD
 http://10.10.10.50:8089/devices/M3U-HTC/channels/254/stream.mpg?format=ts
+
+#EXTINF:-1 channel-id="TvLand" tvg-id="274" tvg-chno="274" tvg-logo="https://tmsimg.fancybits.co/assets/s16123_h3_aa.png?w=360&h=270" tvc-guide-stationid="16123" tvg-name="TVLAND" group-title="HD",TVLAND
+http://10.10.10.50:8089/devices/ANY/channels/274/stream.mpg
 
 #EXTINF:-1 channel-id="Bally South" tvg-id="289" tvg-chno="289" tvg-logo="https://tmsimg.fancybits.co/assets/s12410_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="11130" tvg-name="BSSONC1" group-title="HD",BALLY SOUTH
 http://10.10.10.50:8089/devices/M3U-HTC/channels/289/stream.mpg?format=ts
@@ -50,3 +59,9 @@ http://10.10.10.50:8089/devices/M3U-HTC/channels/346/stream.mpg?format=ts
 
 #EXTINF:-1 channel-id="CNBC" tvg-id="348" tvg-chno="348" tvg-logo="https://tmsimg.fancybits.co/assets/s58780_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="58780" tvg-name="CNBCHD" group-title="HD",CNBC
 http://10.10.10.50:8089/devices/M3U-HTC/channels/348/stream.mpg?format=ts
+
+#EXTINF:-1 channel-id="CMT" tvg-id="402" tvg-chno="402" tvg-logo="https://tmsimg.fancybits.co/assets/s59440_ll_h15_ad.png?w=360&h=270" tvc-guide-stationid="59440" tvg-name="CMTVHD" group-title="HD",CMT
+http://10.10.10.50:8089/devices/ANY/channels/402/stream.mpg
+
+#EXTINF:-1 channel-id="MTV" tvg-id="414" tvg-chno="414" tvg-logo="https://tmsimg.fancybits.co/assets/s60964_h3_ba.png?w=360&h=270" tvc-guide-stationid="60964" tvg-name="MTVHD" group-title="HD",MTV
+http://10.10.10.50:8089/devices/ANY/channels/414/stream.mpg
