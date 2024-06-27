@@ -33,7 +33,7 @@ http://10.10.10.50:8089/devices/ANY/channels/46.7/stream.mpg
 #EXTINF:-1 channel-id="Cozi" tvg-id="119" tvg-chno="119" tvg-logo="https://tmsimg.fancybits.co/assets/s78851_h3_aa.png?w=360&h=270" tvc-guide-stationid="113619" tvg-name="WCCBDT8" group-title="SD",COZITV
 http://10.10.10.50:8089/devices/ANY/channels/18.8/stream.mpg
 
-#EXTINF:-1 channel-id="Bounce" tvg-id="123" tvg-chno="123" tvg-logo="https://tmsimg.fancybits.co/assets/s73067_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="32490" tvg-name="WBTVDT2" group-title="SD",BOUNCE
+#EXTINF:-1 channel-id="Bounce" tvg-id="124" tvg-chno="124" tvg-logo="https://tmsimg.fancybits.co/assets/s73067_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="32490" tvg-name="WBTVDT2" group-title="SD",BOUNCE
 http://10.10.10.50:8089/devices/ANY/channels/3.2/stream.mpg
 
 #EXTINF:-1 channel-id="Laff" tvg-id="138" tvg-chno="138" tvg-logo="https://tmsimg.fancybits.co/assets/s92091_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="30916" tvg-name="WAXNDT2" group-title="SD",LAFF
