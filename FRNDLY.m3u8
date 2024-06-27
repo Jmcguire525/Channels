@@ -12,6 +12,9 @@ http://10.10.10.50:8089/devices/ANY/channels/9008/stream.mpg
 #EXTINF:-1 channel-id="MeTV" tvg-id="122" tvg-chno="122" tvg-logo="https://tmsimg.fancybits.co/assets/s122696_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="122696" tvg-name="METVD" group-title="HD",MeTV
 http://10.10.10.50:8089/devices/ANY/channels/9001/stream.mpg
 
+#EXTINF:-1 channel-id="METOONS" tvg-id="123" tvg-chno="123" tvg-logo="https://tmsimg.fancybits.co/assets/s159817_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="159817" tvg-name="METOONS" group-title="HD",MeTV Toons
+http://10.10.10.50:8089/devices/ANY/channels/9002/stream.mpg
+
 #EXTINF:-1 channel-id="HerosIcons" tvg-id="144" tvg-chno="144" tvg-logo="" tvc-guide-stationid="120460" tvg-name="HRICNST" group-title="HD",Heroes & Icons
 http://10.10.10.50:8089/devices/ANY/channels/9026/stream.mpg
 
