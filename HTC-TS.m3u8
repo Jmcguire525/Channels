@@ -1,67 +1,85 @@
 #EXTM3U
 
+#EXTINF:-1 channel-id=“ESPN” tvg-id=“275” tvg-chno=“275” tvg-logo="https://tmsimg.fancybits.co/assets/s32645_h3_aa.png?w=360&h=270" tvc-guide-stationid="32645" tvg-name="ESPNHD” group-title="HD",ESPN
+http://100.68.204.103/devices/ANY/channels/28/stream.mpg
+
+#EXTINF:-1 channel-id=“ESPN2” tvg-id=“277” tvg-chno=“277” tvg-logo="https://tmsimg.fancybits.co/assets/s45507_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="45507" tvg-name="ESPN2HD” group-title="HD",ESPN2
+http://100.68.204.103/devices/ANY/channels/29/stream.mpg
+
+#EXTINF:-1 channel-id=“ESPNews” tvg-id=“279” tvg-chno=“279” tvg-logo="https://tmsimg.fancybits.co/assets/s59976_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="59976" tvg-name="ESPNWHD" group-title="HD",ESPNews
+http://100.68.204.103/devices/ANY/channels/160/stream.mpg
+
+#EXTINF:-1 channel-id=“ESPNU” tvg-id=“283” tvg-chno=“283” tvg-logo="https://tmsimg.fancybits.co/assets/s60696_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="60696" tvg-name="ESPNUHD" group-title="HD",ESPNU
+http://100.68.204.103/devices/ANY/channels/162/stream.mpg
+
+#EXTINF:-1 channel-id=“ACC” tvg-id=“282” tvg-chno=“282” tvg-logo="https://tmsimg.fancybits.co/assets/s111871_ll_h15_ac.png?w=360&h=270" tvc-guide-stationid="111871" tvg-name="ACC" group-title="HD",ACCNET
+http://100.68.204.103/devices/ANY/channels/67/stream.mpg
+
+#EXTINF:-1 channel-id=“SEC” tvg-id=“284” tvg-chno=“284” tvg-logo="https://tmsimg.fancybits.co/assets/s89714_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="89714" tvg-name="SECH" group-title="HD",SEC
+http://100.68.204.103/devices/ANY/channels/73/stream.mpg
+
 #EXTINF:-1 channel-id="News Nation" tvg-id="125" tvg-chno="125" tvg-logo="https://tmsimg.fancybits.co/assets/s91096_ll_h15_ae.png?w=360&h=270" tvc-guide-stationid="91096" tvg-name="NEWSNTN" group-title="HD",NEWS NATION
-http://100.68.204.103/devices/ANY/channels/68/stream.mpg?format=ts
+http://100.68.204.103/devices/ANY/channels/68/stream.mpg
 
 #EXTINF:-1 channel-id="USA" tvg-id="131" tvg-chno="131" tvg-logo="https://tmsimg.fancybits.co/assets/s58452_ll_h15_af.png?w=360&h=270" tvc-guide-stationid="58452" tvg-name="USA" group-title="HD",USA
-http://100.68.204.103/devices/ANY/channels/27/stream.mpg?format=ts
+http://100.68.204.103/devices/ANY/channels/27/stream.mpg
 
 #EXTINF:-1 channel-id="Paramount" tvg-id="135" tvg-chno="135" tvg-logo="https://tmsimg.fancybits.co/assets/s59186_ll_h15_ac.png?w=360&h=270" tvc-guide-stationid="59186" tvg-name="PARHD" group-title="HD",PARAMOUNT
-http://100.68.204.103/devices/ANY/channels/63/stream.mpg?format=ts
+http://100.68.204.103/devices/ANY/channels/63/stream.mpg
 
 #EXTINF:-1 channel-id="Comedy Central" tvg-id="139" tvg-chno="139" tvg-logo="https://tmsimg.fancybits.co/assets/s10149_h3_ba.png?w=360&h=270" tvc-guide-stationid="10149" tvg-name="COMEDY" group-title="HD",COMEDY CENTRAL
-http://100.68.204.103/devices/ANY/channels/34/stream.mpg?format=ts
+http://100.68.204.103/devices/ANY/channels/34/stream.mpg
 
 #EXTINF:-1 channel-id="SyFy" tvg-id="141" tvg-chno="141" tvg-logo="https://tmsimg.fancybits.co/assets/s58623_ll_h15_ae.png?w=360&h=270" tvc-guide-stationid="58623" tvg-name="SYFY" group-title="HD",SYFY
-http://100.68.204.103/devices/ANY/channels/40/stream.mpg?format=ts
+http://100.68.204.103/devices/ANY/channels/40/stream.mpg
 
 #EXTINF:-1 channel-id="E" tvg-id="181" tvg-chno="181" tvg-logo="https://tmsimg.fancybits.co/assets/s61812_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="61812" tvg-name="E" group-title="HD",E!
-http://100.68.204.103/devices/ANY/channels/50/stream.mpg?format=ts
+http://100.68.204.103/devices/ANY/channels/50/stream.mpg
 
 #EXTINF:-1 channel-id="Pop" tvg-id="182" tvg-chno="182" tvg-logo="https://tmsimg.fancybits.co/assets/s68796_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="68796" tvg-name="POPHD" group-title="HD",POP TV
-http://100.68.204.103/devices/ANY/channels/136/stream.mpg?format=ts
+http://100.68.204.103/devices/ANY/channels/136/stream.mpg
 
 #EXTINF:-1 channel-id="Bravo" tvg-id="189" tvg-chno="189" tvg-logo="https://tmsimg.fancybits.co/assets/s58625_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="58625" tvg-name="BRAVO" group-title="HD",BRAVO
-http://100.68.204.103/devices/ANY/channels/65/stream.mpg?format=ts
+http://100.68.204.103/devices/ANY/channels/65/stream.mpg
 
 #EXTINF:-1 channel-id="Oxygen" tvg-id="191" tvg-chno="191" tvg-logo="https://tmsimg.fancybits.co/assets/s70522_ll_h15_ac.png?w=360&h=270" tvc-guide-stationid="70522" tvg-name="OXYGN" group-title="HD",OXYGEN
-http://100.68.204.103/devices/ANY/channels/77/stream.mpg?format=ts
+http://100.68.204.103/devices/ANY/channels/77/stream.mpg
 
 #EXTINF:-1 channel-id="Nickelodeon" tvg-id="254" tvg-chno="254" tvg-logo="https://tmsimg.fancybits.co/assets/s59432_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="59432" tvg-name="NIKHD" group-title="HD",NICKELODEON
-http://100.68.204.103/devices/ANY/channels/53/stream.mpg?format=ts
+http://100.68.204.103/devices/ANY/channels/53/stream.mpg
 
 #EXTINF:-1 channel-id="TV Land" tvg-id="274" tvg-chno="274" tvg-logo="https://tmsimg.fancybits.co/assets/s73541_h3_ba.png?w=360&h=270" tvc-guide-stationid="73541" tvg-name="TVLNDHD" group-title="HD",TV LAND
-http://100.68.204.103/devices/ANY/channels/54/stream.mpg?format=ts
+http://100.68.204.103/devices/ANY/channels/54/stream.mpg
 
 #EXTINF:-1 channel-id="Bally South" tvg-id="289" tvg-chno="289" tvg-logo="https://tmsimg.fancybits.co/assets/s12410_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="11130" tvg-name="BSSONC1" group-title="HD",BALLY SOUTH
-http://100.68.204.103/devices/ANY/channels/48/stream.mpg?format=ts
+http://100.68.204.103/devices/ANY/channels/48/stream.mpg
 
 #EXTINF:-1 channel-id="Bally SE" tvg-id="291" tvg-chno="291" tvg-logo="https://tmsimg.fancybits.co/assets/s61138_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="61138" tvg-name="BSEGA1H" group-title="HD",BALLY SE
-http://100.68.204.103/devices/ANY/channels/49/stream.mpg?format=ts
+http://100.68.204.103/devices/ANY/channels/49/stream.mpg
 
 #EXTINF:-1 channel-id="MLB" tvg-id="293" tvg-chno="293" tvg-logo="https://tmsimg.fancybits.co/assets/s62081_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="62081" tvg-name="MLBHD" group-title="HD",MLB
-http://100.68.204.103/devices/ANY/channels/97/stream.mpg?format=ts
+http://100.68.204.103/devices/ANY/channels/97/stream.mpg
 
 #EXTINF:-1 channel-id="NFL Network" tvg-id="295" tvg-chno="295" tvg-logo="https://tmsimg.fancybits.co/assets/s45399_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="45399" tvg-name="NFLHD" group-title="HD",NFL NETWORK
-http://100.68.204.103/devices/ANY/channels/180/stream.mpg?format=ts
+http://100.68.204.103/devices/ANY/channels/180/stream.mpg
 
 #EXTINF:-1 channel-id="NFL RedZone" tvg-id="296" tvg-chno="296" tvg-logo="https://tmsimg.fancybits.co/assets/s65025_ll_h9_aa.png?w=360&h=270" tvc-guide-stationid="65025" tvg-name="NFLNRZD" group-title="HD",NFL REDZONE
-http://100.68.204.103/devices/ANY/channels/181/stream.mpg?format=ts
+http://100.68.204.103/devices/ANY/channels/181/stream.mpg
 
 #EXTINF:-1 channel-id="Golf" tvg-id="297" tvg-chno="297" tvg-logo="https://tmsimg.fancybits.co/assets/s61854_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="61854" tvg-name="GOLFHD" group-title="HD",GOLF
-http://100.68.204.103/devices/ANY/channels/52/stream.mpg?format=ts
+http://100.68.204.103/devices/ANY/channels/52/stream.mpg
 
 #EXTINF:-1 channel-id="Tennis" tvg-id="299" tvg-chno="299" tvg-logo="https://tmsimg.fancybits.co/assets/s60316_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="60316" tvg-name="TENISHD" group-title="HD",TENNIS CHANNEL
-http://100.68.204.103/devices/ANY/channels/76/stream.mpg?format=ts
+http://100.68.204.103/devices/ANY/channels/76/stream.mpg
 
 #EXTINF:-1 channel-id="MSNBC" tvg-id="346" tvg-chno="346" tvg-logo="https://tmsimg.fancybits.co/assets/s64241_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="64241" tvg-name="MNBC" group-title="HD",MSNBC
-http://100.68.204.103/devices/ANY/channels/70/stream.mpg?format=ts
+http://100.68.204.103/devices/ANY/channels/70/stream.mpg
 
 #EXTINF:-1 channel-id="CNBC" tvg-id="348" tvg-chno="348" tvg-logo="https://tmsimg.fancybits.co/assets/s58780_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="58780" tvg-name="CNBC" group-title="HD",CNBC
-http://100.68.204.103/devices/ANY/channels/42/stream.mpg?format=ts
+http://100.68.204.103/devices/ANY/channels/42/stream.mpg
 
 #EXTINF:-1 channel-id="CMT" tvg-id="402" tvg-chno="402" tvg-logo="https://tmsimg.fancybits.co/assets/s59440_ll_h15_ad.png?w=360&h=270" tvc-guide-stationid="59440" tvg-name="CMTVHD" group-title="HD",CMT
-http://100.68.204.103/devices/ANY/channels/44/stream.mpg?format=ts
+http://100.68.204.103/devices/ANY/channels/44/stream.mpg
 
 #EXTINF:-1 channel-id="MTV" tvg-id="414" tvg-chno="414" tvg-logo="https://tmsimg.fancybits.co/assets/s60964_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="60964" tvg-name="MTVHD" group-title="HD",MTV
-http://100.68.204.103/devices/ANY/channels/35/stream.mpg?format=ts
+http://100.68.204.103/devices/ANY/channels/35/stream.mpg
