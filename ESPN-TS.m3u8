@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3
 
 #EXTINF:-1 channel-id=“ESPN” tvg-id=“275” tvg-chno=“275” tvg-logo="https://tmsimg.fancybits.co/assets/s32645_h3_aa.png?w=360&h=270" tvc-guide-stationid="32645" tvg-name="ESPNHD” group-title="HD",ESPN
 http://100.68.204.103/devices/ANY/channels/28/stream.mpg
