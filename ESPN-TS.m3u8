@@ -6,7 +6,7 @@ http://100.68.204.103/devices/ANY/channels/28/stream.mpg
 #EXTINF:-1 channel-id=“ESPN2” tvg-id=“277” tvg-chno=“277” tvg-logo="https://tmsimg.fancybits.co/assets/s45507_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="45507" tvg-name="ESPN2HD” group-title="HD",ESPN2
 http://100.68.204.103/devices/ANY/channels/29/stream.mpg
 
-#EXTINF:-1 channel-id=“ESPNews” tvg-id=“279” tvg-chno=“279” tvg-logo="https://tmsimg.fancybits.co/assets/s59976_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="59976" tvg-name="ESPNWHD" group-title="HD",ESPNews
+#EXTINF:-1 channel-id=“ESPNEWS” tvg-id=“279” tvg-chno=“279” tvg-logo="https://tmsimg.fancybits.co/assets/s59976_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="59976" tvg-name="ESPNWHD" group-title="HD",ESPNEWS
 http://100.68.204.103/devices/ANY/channels/160/stream.mpg
 
 #EXTINF:-1 channel-id=“ESPNU” tvg-id=“283” tvg-chno=“283” tvg-logo="https://tmsimg.fancybits.co/assets/s60696_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="60696" tvg-name="ESPNUHD" group-title="HD",ESPNU
