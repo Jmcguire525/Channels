@@ -151,10 +151,10 @@ http://10.10.10.50:8089/devices/ANY/channels/6199/stream.mpg
 http://10.10.10.50:8089/devices/ANY/channels/6196/stream.mpg
 
 #EXTINF:-1 channel-id="FS1" tvg-id="288" tvg-chno="288" tvg-logo="https://tmsimg.fancybits.co/assets/s82547_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="82547" tvg-name="FS1HD" group-title="HD",FS1
-http://10.10.10.50:8089/devices/ANY/channels/288/stream.mpg
+http://10.10.10.50:8089/devices/ANY/channels/6197/stream.mpg
 
 #EXTINF:-1 channel-id="FS2" tvg-id="292" tvg-chno="292" tvg-logo="https://tmsimg.fancybits.co/assets/s59305_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="59305" tvg-name="FS2HD" group-title="HD",FS2
-http://10.10.10.50:8089/devices/ANY/channels/292/stream.mpg
+http://10.10.10.50:8089/devices/ANY/channels/6198/stream.mpg
 
 #EXTINF:-1 channel-id="HLN" tvg-id="340" tvg-chno="340" tvg-logo="https://tmsimg.fancybits.co/assets/s64549_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="64549" tvg-name="HLNHD" group-title="HD",HLN
 http://10.10.10.50:8089/devices/ANY/channels/6031/stream.mpg
