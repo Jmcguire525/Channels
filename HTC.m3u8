@@ -39,10 +39,10 @@ http://10.10.10.50:8089/devices/M3U-HTC/channels/262/stream.mpg
 #EXTINF:-1 channel-id="TvLand" tvg-id="274" tvg-chno="274" tvg-logo="https://tmsimg.fancybits.co/assets/s16123_h3_aa.png?w=360&h=270" tvc-guide-stationid="16123" tvg-name="TVLAND" group-title="HD",TVLAND
 http://10.10.10.50:8089/devices/ANY/channels/274/stream.mpg
 
-#EXTINF:-1 channel-id="Bally South" tvg-id="289" tvg-chno="289" tvg-logo="https://tmsimg.fancybits.co/assets/s12410_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="11130" tvg-name="BSSONC1" group-title="HD",BALLY SOUTH
+#EXTINF:-1 channel-id="Bally South" tvg-id="291" tvg-chno="291" tvg-logo="https://tmsimg.fancybits.co/assets/s12410_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="11130" tvg-name="BSSONC1" group-title="HD",BALLY SOUTH
 http://10.10.10.50:8089/devices/M3U-HTC/channels/289/stream.mpg
 
-#EXTINF:-1 channel-id="Bally SE" tvg-id="291" tvg-chno="291" tvg-logo="https://tmsimg.fancybits.co/assets/s61138_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="61138" tvg-name="BSEGA1H" group-title="HD",BALLY SE
+#EXTINF:-1 channel-id="Bally SE" tvg-id="292" tvg-chno="292" tvg-logo="https://tmsimg.fancybits.co/assets/s61138_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="61138" tvg-name="BSEGA1H" group-title="HD",BALLY SE
 http://10.10.10.50:8089/devices/M3U-HTC/channels/291/stream.mpg
 
 #EXTINF:-1 channel-id="MLB" tvg-id="293" tvg-chno="293" tvg-logo="https://tmsimg.fancybits.co/assets/s62081_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="62081" tvg-name="MLBHD" group-title="HD",MLB HD
