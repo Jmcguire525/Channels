@@ -30,6 +30,12 @@ http://100.101.81.118/devices/ANY/channels/77/stream.mpg
 #EXTINF:-1 channel-id="Nickelodeon" tvg-id="254" tvg-chno="254" tvg-logo="https://tmsimg.fancybits.co/assets/s59432_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="59432" tvg-name="NIKHD" group-title="HD",NICKELODEON
 http://100.101.81.118/devices/ANY/channels/53/stream.mpg
 
+#EXTINF:-1 channel-id="Nick JR" tvg-id="258" tvg-chno="258" tvg-logo="https://tmsimg.fancybits.co/assets/s82649_ll_h15_ad.png?w=360&h=270" tvc-guide-stationid="82649" tvg-name="NICJRHD" group-title="HD",NICK JR
+http://100.101.81.118/devices/ANY/channels/118/stream.mpg
+
+#EXTINF:-1 channel-id="Cartoon Network" tvg-id="262" tvg-chno="262" tvg-logo="https://tmsimg.fancybits.co/assets/s60048_ll_h15_ac.png?w=360&h=270" tvc-guide-stationid="60048" tvg-name="TOONHD" group-title="HD",CARTOON NETWORK
+http://100.101.81.118/devices/ANY/channels/41/stream.mpg
+
 #EXTINF:-1 channel-id="TV Land" tvg-id="274" tvg-chno="274" tvg-logo="https://tmsimg.fancybits.co/assets/s73541_h3_ba.png?w=360&h=270" tvc-guide-stationid="73541" tvg-name="TVLNDHD" group-title="HD",TV LAND
 http://100.101.81.118/devices/ANY/channels/54/stream.mpg
 
