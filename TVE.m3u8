@@ -117,12 +117,6 @@ http://10.10.10.50:8089/devices/ANY/channels/6122/stream.mpg
 #EXTINF:-1 channel-id="DisneyXD" tvg-id="252" tvg-chno="252" tvg-logo="https://tmsimg.fancybits.co/assets/s60006_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="60006" tvg-name="DXDHD" group-title="HD",DISNEYXD
 http://10.10.10.50:8089/devices/ANY/channels/6124/stream.mpg
 
-#EXTINF:-1 channel-id="CartoonNetwork" tvg-id="258" tvg-chno="258" tvg-logo="https://tmsimg.fancybits.co/assets/s60048_ll_h15_ac.png?w=360&h=270" tvc-guide-stationid="60048" tvg-name="TOONHD" group-title="HD",TOON
-http://10.10.10.50:8089/devices/ANY/channels/6041/stream.mpg
-
-#EXTINF:-1 channel-id="NickJr" tvg-id="262" tvg-chno="262" tvg-logo="https://tmsimg.fancybits.co/assets/s82649_h3_aa.png?w=360&h=270" tvc-guide-stationid="82649" tvg-name="NICJRHD" group-title="HD",NICKJR
-http://10.10.10.50:8089/devices/ANY/channels/6028/stream.mpg
-
 #EXTINF:-1 channel-id="Freeform" tvg-id="272" tvg-chno="272" tvg-logo="https://tmsimg.fancybits.co/assets/s59615_ll_h15_ad.png?w=360&h=270" tvc-guide-stationid="59615" tvg-name="FREFMHD" group-title="HD",FREEFORM
 http://10.10.10.50:8089/devices/ANY/channels/6126/stream.mpg
 
