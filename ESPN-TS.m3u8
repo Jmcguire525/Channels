@@ -21,5 +21,5 @@ http://100.101.81.118/devices/ANY/channels/73/stream.mpg
 #EXTINF:-1 channel-id="FS1" tvg-id="288" tvg-chno="288" tvg-logo="https://tmsimg.fancybits.co/assets/s82547_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="82547" tvg-name="FS1HD" group-title="HD",FOX SPORTS 1
 http://100.101.81.118/devices/ANY/channels/55/stream.mpg
 
-#EXTINF:-1 channel-id="FS2" tvg-id="292" tvg-chno="292" tvg-logo="https://tmsimg.fancybits.co/assets/s59305_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="59305" tvg-name="FS2HD" group-title="HD",FOX SPORTS 2
+#EXTINF:-1 channel-id="FS2" tvg-id="289" tvg-chno="289" tvg-logo="https://tmsimg.fancybits.co/assets/s59305_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="59305" tvg-name="FS2HD" group-title="HD",FOX SPORTS 2
 http://100.101.81.118/devices/ANY/channels/158/stream.mpg
