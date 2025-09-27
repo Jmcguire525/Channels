@@ -9,11 +9,11 @@ http://100.79.215.74/devices/ANY/channels/29/stream.mpg
 #EXTINF:-1 channel-id=“ESPNEWS” tvg-id=“279” tvg-chno=“279” tvg-logo="https://tmsimg.fancybits.co/assets/s59976_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="59976" tvg-name="ESPNWHD" group-title="HD",ESPNEWS
 http://100.79.215.74/devices/ANY/channels/160/stream.mpg
 
-#EXTINF:-1 channel-id=“ESPNU” tvg-id=“283” tvg-chno=“283” tvg-logo="https://tmsimg.fancybits.co/assets/s60696_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="60696" tvg-name="ESPNUHD" group-title="HD",ESPNU
-http://100.79.215.74/devices/ANY/channels/162/stream.mpg
-
 #EXTINF:-1 channel-id=“ACC” tvg-id=“282” tvg-chno=“282” tvg-logo="https://tmsimg.fancybits.co/assets/s111871_ll_h15_ac.png?w=360&h=270" tvc-guide-stationid="111871" tvg-name="ACC" group-title="HD",ACCNET
 http://100.79.215.74/devices/ANY/channels/67/stream.mpg
+
+#EXTINF:-1 channel-id=“ESPNU” tvg-id=“283” tvg-chno=“283” tvg-logo="https://tmsimg.fancybits.co/assets/s60696_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="60696" tvg-name="ESPNUHD" group-title="HD",ESPNU
+http://100.79.215.74/devices/ANY/channels/162/stream.mpg
 
 #EXTINF:-1 channel-id=“SEC” tvg-id=“284” tvg-chno=“284” tvg-logo="https://tmsimg.fancybits.co/assets/s89714_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="89714" tvg-name="SECH" group-title="HD",SEC
 http://100.79.215.74/devices/ANY/channels/73/stream.mpg
