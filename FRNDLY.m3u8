@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 channel-id="West" tvg-id="115" tvg-chno="115" tvg-logo="https://tmsimg.fancybits.co/assets/GNLZZGG00292QZ5.png?w=360&h=270" tvc-guide-stationid="193653" tvg-name="WEST" group-title="HD",WEST
+http://10.10.10.50:8089/devices/ANY/channels/9058/stream.mpg
+
 #EXTINF:-1 channel-id="Get" tvg-id="118" tvg-chno="118" tvg-logo="https://tmsimg.fancybits.co/assets/s82563_ll_h9_aa.png?w=360&h=270" tvc-guide-stationid="82563" tvg-name="GETTV" group-title="HD",Get TV
 http://10.10.10.50:8089/devices/ANY/channels/9031/stream.mpg
 
@@ -15,7 +18,7 @@ http://10.10.10.50:8089/devices/ANY/channels/9001/stream.mpg
 #EXTINF:-1 channel-id="METOONS" tvg-id="123" tvg-chno="123" tvg-logo="https://tmsimg.fancybits.co/assets/s159817_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="159817" tvg-name="METOONS" group-title="HD",MeTV Toons
 http://10.10.10.50:8089/devices/ANY/channels/9002/stream.mpg
 
-#EXTINF:-1 channel-id="HerosIcons" tvg-id="144" tvg-chno="144" tvg-logo="" tvc-guide-stationid="120460" tvg-name="HRICNST" group-title="HD",Heroes & Icons
+#EXTINF:-1 channel-id="HerosIcons" tvg-id="144" tvg-chno="144" tvg-logo="https://tmsimg.fancybits.co/assets/s90401_ll_h15_ad.png?w=360&h=270" tvc-guide-stationid="120460" tvg-name="HRICNST" group-title="HD",Heroes & Icons
 http://10.10.10.50:8089/devices/ANY/channels/9027/stream.mpg
 
 #EXTINF:-1 channel-id="AE" tvg-id="149" tvg-chno="149" tvg-logo="https://tmsimg.fancybits.co/assets/s51529_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="51529" tvg-name="AETVHD" group-title="HD",A&E
@@ -62,6 +65,9 @@ http://10.10.10.50:8089/devices/ANY/channels/9003/stream.mpg
 
 #EXTINF:-1 channel-id="Outdoor" tvg-id="309" tvg-chno="309" tvg-logo="https://tmsimg.fancybits.co/assets/s46737_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="46737" tvg-name="OUTHD" group-title="HD",Outdoor Channel
 http://10.10.10.50:8089/devices/ANY/channels/9039/stream.mpg
+
+#EXTINF:-1 channel-id="Persuit" tvg-id="310" tvg-chno="310" tvg-logo="https://tmsimg.fancybits.co/assets/s60111_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="60111" tvg-name="PURST" group-title="HD",Pursuit
+http://10.10.10.50:8089/devices/ANY/channels/9040/stream.mpg
 
 #EXTINF:-1 channel-id="Weather" tvg-id="327" tvg-chno="327" tvg-logo="https://tmsimg.fancybits.co/assets/s58812_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="58812" tvg-name="WEATHHD" group-title="HD",The Weather Channel
 http://10.10.10.50:8089/devices/ANY/channels/9011/stream.mpg
