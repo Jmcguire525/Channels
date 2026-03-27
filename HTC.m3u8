@@ -48,6 +48,9 @@ http://10.10.10.50:8089/devices/M3U-HTC/channels/292/stream.mpg
 #EXTINF:-1 channel-id="MLB" tvg-id="293" tvg-chno="293" tvg-logo="https://tmsimg.fancybits.co/assets/s62081_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="62081" tvg-name="MLBHD" group-title="HD",MLB HD
 http://10.10.10.50:8089/devices/M3U-HTC/channels/293/stream.mpg
 
+#EXTINF:-1 channel-id="ATLB" tvg-id="294" tvg-chno="294" tvg-logo="https://tmsimg.fancybits.co/assets/GNLZZGG002EK4L6.png?w=360&h=270" tvc-guide-stationid="136334" tvg-name="ATLB" group-title="HD",
+http://10.10.10.50:8089/devices/M3U-HTC/channels/294/stream.mpg
+
 #EXTINF:-1 channel-id="NFL Network" tvg-id="295" tvg-chno="295" tvg-logo="https://tmsimg.fancybits.co/assets/s45399_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="45399" tvg-name="NFLHD" group-title="HD",NFL NETWORK HD
 http://10.10.10.50:8089/devices/M3U-HTC/channels/295/stream.mpg
 
