@@ -48,7 +48,7 @@ http://100.79.215.74/devices/ANY/channels/49/stream.mpg
 #EXTINF:-1 channel-id="MLB" tvg-id="293" tvg-chno="293" tvg-logo="https://tmsimg.fancybits.co/assets/s62081_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="62081" tvg-name="MLBHD" group-title="HD",MLB
 http://100.79.215.74/devices/ANY/channels/97/stream.mpg
 
-#EXTINF:-1 channel-id="ATLB" tvg-id="294" tvg-chno="294" tvg-logo="https://tmsimg.fancybits.co/assets/GNLZZGG002EK4L6.png?w=360&h=270" tvc-guide-stationid="136334" tvg-name="ATLB" group-title="HD",
+#EXTINF:-1 channel-id="ATLB" tvg-id="294" tvg-chno="294" tvg-logo="https://tmsimg.fancybits.co/assets/GNLZZGG002EK4L6.png?w=360&h=270" tvc-guide-stationid="136334" tvg-name="ATLB" group-title="HD",ATLB
 http://100.79.215.74/devices/ANY/channels/74/stream.mpg
 
 #EXTINF:-1 channel-id="NFL Network" tvg-id="295" tvg-chno="295" tvg-logo="https://tmsimg.fancybits.co/assets/s45399_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="45399" tvg-name="NFLHD" group-title="HD",NFL NETWORK
