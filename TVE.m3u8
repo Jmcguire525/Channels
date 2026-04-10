@@ -48,9 +48,6 @@ http://10.10.10.50:8089/devices/ANY/channels/6089/stream.mpg?format=ts&codec=cop
 #EXTINF:-1 channel-id="HSN" tvg-id="200" tvg-chno="200" tvg-logo="https://tmsimg.fancybits.co/assets/s62077_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="62077" tvg-name="HSNHD" group-title="HD",HSN
 http://10.10.10.50:8089/devices/ANY/channels/6951/stream.mpg?format=ts&codec=copy
 
-#EXTINF:-1 channel-id="ShopHQ" tvg-id="204" tvg-chno="204" tvg-logo="https://tmsimg.fancybits.co/assets/s78601_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="78601" tvg-name="SHPHQHD" group-title="HD",EVINE
-http://10.10.10.50:8089/devices/ANY/channels/6950/stream.mpg?format=ts&codec=copy
-
 #EXTINF:-1 channel-id="Travel" tvg-id="208" tvg-chno="208" tvg-logo="https://tmsimg.fancybits.co/assets/s59303_ll_h15_ac.png?w=360&h=270" tvc-guide-stationid="59303" tvg-name="TRAVHD" group-title="HD",TRAVEL
 http://10.10.10.50:8089/devices/ANY/channels/6106/stream.mpg?format=ts&codec=copy
 
