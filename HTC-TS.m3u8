@@ -123,5 +123,11 @@ http://100.79.215.74/devices/ANY/channels/42/stream.mpg?format=ts&codec=copy
 #EXTINF:-1 channel-id="CMT" tvg-id="402" tvg-chno="402" tvg-logo="https://tmsimg.fancybits.co/assets/s59440_ll_h15_ad.png?w=360&h=270" tvc-guide-stationid="59440" tvg-name="CMTVHD" group-title="HD",CMT
 http://100.79.215.74/devices/ANY/channels/44/stream.mpg?format=ts&codec=copy
 
+#EXTINF:-1 channel-id="VH1" tvg-id="408" tvg-chno="408" tvg-logo="https://tmsimg.fancybits.co/assets/s60046_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="60046" tvg-name="VH1HD" group-title="HD",VH1 HD
+http://100.79.215.74/devices/ANY/channels/32/stream.mpg?format=ts&codec=copy
+
 #EXTINF:-1 channel-id="MTV" tvg-id="414" tvg-chno="414" tvg-logo="https://tmsimg.fancybits.co/assets/s60964_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="60964" tvg-name="MTVHD" group-title="HD",MTV
 http://100.79.215.74/devices/ANY/channels/35/stream.mpg?format=ts&codec=copy
+
+#EXTINF:-1 channel-id="BET" tvg-id="420" tvg-chno="420" tvg-logo="https://tmsimg.fancybits.co/assets/s63236_ll_h15_ac.png?w=360&h=270" tvc-guide-stationid="63236" tvg-name="BETHD" group-title="HD",BET HD
+http://100.79.215.74/devices/ANY/channels/33/stream.mpg?format=ts&codec=copy
