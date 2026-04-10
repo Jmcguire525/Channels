@@ -51,9 +51,6 @@ http://10.10.10.50:8089/devices/ANY/channels/9038/stream.mpg?format=ts&codec=cop
 #EXTINF:-1 channel-id="Start" tvg-id="176" tvg-chno="176" tvg-logo="https://tmsimg.fancybits.co/assets/s122695_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="122695" tvg-name="STRTD" group-title="HD",Start TV
 http://10.10.10.50:8089/devices/ANY/channels/9018/stream.mpg?format=ts&codec=copy
 
-#EXTINF:-1 channel-id="QVC" tvg-id="202" tvg-chno="202" tvg-logo="https://tmsimg.fancybits.co/assets/s60222_ll_h15_ac.png?w=360&h=270" tvc-guide-stationid="60222" tvg-name="QVCHD" group-title="HD",QVC
-http://10.10.10.50:8089/devices/ANY/channels/9043/stream.mpg?format=ts&codec=copy
-
 #EXTINF:-1 channel-id="MilitaryHistory" tvg-id="237" tvg-chno="237" tvg-logo="https://tmsimg.fancybits.co/assets/s48999_ll_h15_ac.png?w=360&h=270" tvc-guide-stationid="48999" tvg-name="MILH" group-title="HD",Military HISTORY
 http://10.10.10.50:8089/devices/ANY/channels/9032/stream.mpg?format=ts&codec=copy
 
