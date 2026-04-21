@@ -85,10 +85,10 @@ http://10.10.10.50:8089/devices/ANY/channels/283/stream.mpg?format=ts&codec=copy
 http://10.10.10.50:8089/devices/ANY/channels/284/stream.mpg?format=ts&codec=copy
 
 #EXTINF:-1 channel-id="FS1" tvg-id="288" tvg-chno="288" tvg-logo="https://tmsimg.fancybits.co/assets/s82547_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="82547" tvg-name="FS1HD" group-title="HD",FOX SPORTS 1
-http://10.10.10.50:8089/devices/ANY/channels/288/stream.mpg?format=ts&codec=copy
+http://10.10.10.50:8089/devices/ANY/channels/5212/stream.mpg?format=ts&codec=copy
 
 #EXTINF:-1 channel-id="FS2" tvg-id="289" tvg-chno="289" tvg-logo="https://tmsimg.fancybits.co/assets/s59305_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="59305" tvg-name="FS2HD" group-title="HD",FOX SPORTS 2
-http://10.10.10.50:8089/devices/ANY/channels/289/stream.mpg?format=ts&codec=copy
+http://10.10.10.50:8089/devices/ANY/channels/5213/stream.mpg?format=ts&codec=copy
 
 #EXTINF:-1 channel-id="FanDuel South" tvg-id="291" tvg-chno="291" tvg-logo="https://tmsimg.fancybits.co/assets/s12410_ll_h15_ac.png?w=360&h=270" tvc-guide-stationid="11130" tvg-name="FDSONC1" group-title="HD",FAN DUEL SS
 http://10.10.10.50:8089/devices/ANY/channels/291/stream.mpg?format=ts&codec=copy
