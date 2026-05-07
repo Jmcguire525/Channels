@@ -103,10 +103,10 @@ http://10.10.10.50:8089/devices/ANY/channels/6031/stream.mpg?format=ts&codec=cop
 http://10.10.10.50:8089/devices/ANY/channels/6030/stream.mpg?format=ts&codec=copy
 
 #EXTINF:-1 channel-id="FoxNews" tvg-id="344" tvg-chno="344" tvg-logo="https://tmsimg.fancybits.co/assets/s60179_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="60179" tvg-name="FNCHD" group-title="HD",FNC
-http://10.10.10.50:8089/devices/ANY/channels/6073/stream.mpg?format=ts&codec=copy
+http://10.10.10.50:8089/devices/ANY/channels/5216/stream.mpg?format=ts&codec=copy
 
 #EXTINF:-1 channel-id="FoxBusiness" tvg-id="352" tvg-chno="352" tvg-logo="https://tmsimg.fancybits.co/assets/s58718_ll_h15_ac.png?w=360&h=270" tvc-guide-stationid="58718" tvg-name="FBNHD" group-title="HD",FBN
-http://10.10.10.50:8089/devices/ANY/channels/6074/stream.mpg?format=ts&codec=copy
+http://10.10.10.50:8089/devices/ANY/channels/5217/stream.mpg?format=ts&codec=copy
 
 #EXTINF:-1 channel-id="CSPAN" tvg-id="354" tvg-chno="354" tvg-logo="https://tmsimg.fancybits.co/assets/s68344_ll_h15_ad.png?w=360&h=270" tvc-guide-stationid="68344" tvg-name="CSPANHD" group-title="HD",CSPAN
 http://10.10.10.50:8089/devices/ANY/channels/6007/stream.mpg?format=ts&codec=copy
