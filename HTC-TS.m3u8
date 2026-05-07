@@ -84,6 +84,9 @@ http://10.1.1.20:8089/devices/ANY/channels/162/stream.mpg?format=ts&codec=copy
 #EXTINF:-1 channel-id=“SEC” tvg-id=“284” tvg-chno=“284” tvg-logo="https://tmsimg.fancybits.co/assets/s89714_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="89714" tvg-name="SECH" group-title="HD",SEC
 http://10.1.1.20:8089/devices/ANY/channels/73/stream.mpg?format=ts&codec=copy
 
+#EXTINF:-1 channel-id="Big Ten" tvg-id="285" tvg-chno="285" tvg-logo="https://tmsimg.fancybits.co/assets/s58321_ll_h15_ac.png?w=360&h=270" tvc-guide-stationid="79714" tvg-name="BIGPAHD" group-title="HD",BIG TEN HD
+http://10.1.1.20:8089/devices/ANY/channels/166/stream.mpg?format=ts&codec=copy
+
 #EXTINF:-1 channel-id="FS1" tvg-id="288" tvg-chno="288" tvg-logo="https://tmsimg.fancybits.co/assets/s82547_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="82547" tvg-name="FS1HD" group-title="HD",FOX SPORTS 1
 http://10.1.1.20:8089/devices/ANY/channels/55/stream.mpg?format=ts&codec=copy
 
@@ -114,11 +117,17 @@ http://10.1.1.20:8089/devices/ANY/channels/52/stream.mpg?format=ts&codec=copy
 #EXTINF:-1 channel-id="Tennis" tvg-id="299" tvg-chno="299" tvg-logo="https://tmsimg.fancybits.co/assets/s60316_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="60316" tvg-name="TENISHD" group-title="HD",TENNIS CHANNEL
 http://10.1.1.20:8089/devices/ANY/channels/76/stream.mpg?format=ts&codec=copy
 
+#EXTINF:-1 channel-id="Fox News" tvg-id="344" tvg-chno="344" tvg-logo="https://tmsimg.fancybits.co/assets/s60179_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="60179" tvg-name="FNCHD" group-title="HD",FOX NEWS HD
+http://10.1.1.20:8089/devices/ANY/channels/61/stream.mpg?format=ts&codec=copy
+
 #EXTINF:-1 channel-id="MSNBC" tvg-id="346" tvg-chno="346" tvg-logo="https://tmsimg.fancybits.co/assets/s64241_ll_h15_ab.png?w=360&h=270" tvc-guide-stationid="64241" tvg-name="MNBC" group-title="HD",MSNBC
 http://10.1.1.20:8089/devices/ANY/channels/70/stream.mpg?format=ts&codec=copy
 
 #EXTINF:-1 channel-id="CNBC" tvg-id="348" tvg-chno="348" tvg-logo="https://tmsimg.fancybits.co/assets/s58780_ll_h15_aa.png?w=360&h=270" tvc-guide-stationid="58780" tvg-name="CNBC" group-title="HD",CNBC
 http://10.1.1.20:8089/devices/ANY/channels/42/stream.mpg?format=ts&codec=copy
+
+#EXTINF:-1 channel-id="Fox Business" tvg-id="352" tvg-chno="352" tvg-logo="https://tmsimg.fancybits.co/assets/s58718_ll_h15_ac.png?w=360&h=270" tvc-guide-stationid="58718" tvg-name="FBNHD" group-title="HD",FOX BUSINESS HD
+http://10.1.1.20:8089/devices/ANY/channels/66/stream.mpg?format=ts&codec=copy
 
 #EXTINF:-1 channel-id="CMT" tvg-id="402" tvg-chno="402" tvg-logo="https://tmsimg.fancybits.co/assets/s59440_ll_h15_ad.png?w=360&h=270" tvc-guide-stationid="59440" tvg-name="CMTVHD" group-title="HD",CMT
 http://10.1.1.20:8089/devices/ANY/channels/44/stream.mpg?format=ts&codec=copy
