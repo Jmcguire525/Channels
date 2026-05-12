@@ -107,9 +107,3 @@ http://10.10.10.50:8089/devices/ANY/channels/5216/stream.mpg?format=ts&codec=cop
 
 #EXTINF:-1 channel-id="FoxBusiness" tvg-id="352" tvg-chno="352" tvg-logo="https://tmsimg.fancybits.co/assets/s58718_ll_h15_ac.png?w=360&h=270" tvc-guide-stationid="58718" tvg-name="FBNHD" group-title="HD",FBN
 http://10.10.10.50:8089/devices/ANY/channels/5217/stream.mpg?format=ts&codec=copy
-
-#EXTINF:-1 channel-id="CSPAN" tvg-id="354" tvg-chno="354" tvg-logo="https://tmsimg.fancybits.co/assets/s68344_ll_h15_ad.png?w=360&h=270" tvc-guide-stationid="68344" tvg-name="CSPANHD" group-title="HD",CSPAN
-http://10.10.10.50:8089/devices/ANY/channels/6007/stream.mpg?format=ts&codec=copy
-
-#EXTINF:-1 channel-id="CSPAN2" tvg-id="356" tvg-chno="356" tvg-logo="https://tmsimg.fancybits.co/assets/s68334_ll_h15_ac.png?w=360&h=270" tvc-guide-stationid="68334" tvg-name="CSPN2HD" group-title="HD",CSPAN2
-http://10.10.10.50:8089/devices/ANY/channels/6008/stream.mpg?format=ts&codec=copy
